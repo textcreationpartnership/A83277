@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament: for the speedy raising of foure hundred and fifty pounds weekely in the county of Hertfordshire, over and above their former assessement, for the fortification and defence of the said county, against all incursions of enemies, and for the prevention of all rapines, plunderings, and other mischievous actions, both Houses being credibly informed, that great forces are now marching from Oxford, towards Buckingham, Bedford, and the counties adiacent, to the great terror and amazement of his Maiesties good subiects in those parts. Die Veneris, 31 Martii, 1643. Ordered by the Lords and Commons assembled in Parliament, that this ordinance shall bee forthwith printed and published. John Browne Cler. Parliamentor.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83277</idno>
+            <idno type="STC">Wing E2055</idno>
+            <idno type="STC">Thomason E94_26</idno>
+            <idno type="STC">ESTC R11498</idno>
+            <idno type="EEBO-CITATION">99859048</idno>
+            <idno type="PROQUEST">99859048</idno>
+            <idno type="VID">111109</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83277)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111109)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E94[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament: for the speedy raising of foure hundred and fifty pounds weekely in the county of Hertfordshire, over and above their former assessement, for the fortification and defence of the said county, against all incursions of enemies, and for the prevention of all rapines, plunderings, and other mischievous actions, both Houses being credibly informed, that great forces are now marching from Oxford, towards Buckingham, Bedford, and the counties adiacent, to the great terror and amazement of his Maiesties good subiects in those parts. Die Veneris, 31 Martii, 1643. Ordered by the Lords and Commons assembled in Parliament, that this ordinance shall bee forthwith printed and published. John Browne Cler. Parliamentor.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Aprill 1. Printed for John Wright, in the Old-Bailey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taxation --  England --  Hertfordshire --  Law and legislation --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Hertfordshire (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111109:1" rendition="simple:additions"/>
+            <p>AN ORDINANCE Of the LORDS and COMMONS Aſſembled in Parliament: For the ſpeedy raiſing of foure hundred and fifty pounds weekely in the County of Hertford<g ref="char:EOLhyphen"/>ſhire, over and above their former Aſſeſſement, for the for<g ref="char:EOLhyphen"/>tification and defence of the ſaid County, againſt all incur<g ref="char:EOLhyphen"/>ſions of Enemies, and for the prevention of all rapines, Plunderings, and other miſchievous actions, both Houſes being cre<g ref="char:EOLhyphen"/>dibly informed, that great forces are now marching from Oxford, to wards Buckingham, Bedford, and the Counties adiacent, to the great terror and amaze<g ref="char:EOLhyphen"/>ment of his Maieſties good ſub<g ref="char:EOLhyphen"/>iects in thoſe parts.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Veneris, 31 Martii, 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords and Commons Aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, that this Ordinance ſhall bee forthwith Printed and publiſhed.</p>
+                        <closer>
+                           <signed>John Browne Cler. Parliamentor.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>LONDON: Aprill 1. Printed for John Wright, in the Old-Bailey. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:111109:2"/>
+            <pb facs="tcp:111109:2"/>
+            <head>An Ordinance of the Lords &amp; Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Veneris, 31. Martii, 1643.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Lords and Commons in Par<g ref="char:EOLhyphen"/>liament aſſembled, have beene credibly informed that great Forces are now marching from <hi>Oxford</hi> towards the Counties of <hi>Bucks, Bedford, Heris,</hi> and Counties adjacent, to the great terrors, affrightment, and amazement of his Majeſties good. Subjects, In<g ref="char:EOLhyphen"/>haviting in the Counties aforeſaid, and having taken the ſame into their ſerious Conſideration, doe for the prevention of all Incurſions of enemies, avoyding of all Rapines and Plundrings, or other miſchievous actions) order and ordaine, that there ſhall be aſpeedy rayſing of large &amp; conſiderable ſums of Money for the levying and paying of Forces, fortifying, of Townes, and buying of Armes, Ammanition, and whatſoever elſe may be requiſite and neceſſary for the defence and ſafety of his Majeſties good Subjects of the Countie of <hi>Herts,</hi> Which that it may be done with as much eaſe and indifferency to the good Subjects as the Exi<g ref="char:EOLhyphen"/>gency of the time will permit, for the intents and pur<g ref="char:EOLhyphen"/>poſes aforeſaid, The Lords and Commons doe ordain that there ſhall be rated, taxed, charged, and levied upon the ſeverall Inhabitants of the county of <hi>Herts,</hi> the ſum of <hi>450 li.</hi> every weeke weekly, to be collected and gathered within the ſeverall hundreds of the ſaid county over and above the weekely ſum already layd upon the ſaid County, by Ordinance of both Houſes of Parliament for the Lord Generalls Army, and for the better rayſing of the ſaid weekly ſum of <hi>450 li.</hi> for the uſe and uſes of the County of <hi>Herts</hi> aforeſaid, the ſaid Lords and Commons doe further order and ordaine,
+<pb facs="tcp:111109:3"/>that every perſon and perſons as well Eccleſiaſticall as Temporall, and every Fraternity, Guild, Corpora<g ref="char:EOLhyphen"/>tion, miſtery, brotherhood and Commonalty, corporate or not corporate, as well Eccleſiaſticall as Temporall, within the County of <hi>Herts,</hi> for the valew of every pound which every ſuch perſons, Fraternity, Guild, Corporation, miſtery, brotherhood, or Commonalty, corporate or not corporate, hath of his or their owne, or that any other hath to his or their uſe or uſes, as well in Coyne, in Plate, ſtock of Marchandize, any manner of Corne and graine, houſhold ſtuffe, and of all other goods moveable, within the aforeſaid County, &amp; of al ſuch ſum &amp; ſums of mony as to them is or ſhall be owing, whereof he or they truſt in his or their Con<g ref="char:EOLhyphen"/>ſcience to be payd, except and out of the premiſes de<g ref="char:EOLhyphen"/>ducted ſuch ſums of money as he or they owe and is in his or their conſcience intended truly to pay, And except alſo the Apparell of every ſuch perſon, their Wives and children, belonging to their owne bodies (ſaving Iewels, Gold, Silver, Stones, Pearle) ſhall pay to<g ref="char:EOLhyphen"/>wards the ſaid weekly ſum of <hi>450 li.</hi> and every Alien and ſtranger, as well denizens as others, and alſo eve<g ref="char:EOLhyphen"/>ry Popiſh Recuſant convict or not convict, and all ſuch as have not at all contributed to the Propoſitions of both Houſes of Parliament for Arms, Mony, or Plate, ſhall pay towards the ſum aforeſaid, a proportion double to thoſe of the like eſtates being no Aliens or Recuſants, and hath contributed to the full upon the Propoſitions according to their Eſtates. And that e<g ref="char:EOLhyphen"/>very perſon within the ſaid County, as well Eccleſi<g ref="char:EOLhyphen"/>aſticall as Temporall, and every corporation, Frater<g ref="char:EOLhyphen"/>nity, Guild, miſtery, brotherhood and commonalty, corporate or not corporate, as well Eccleſiaſticall as Temporall, for every eſtate that every ſuch perſon or perſons, and every corporation, Fraternity, Guild,
+<pb facs="tcp:111109:3"/>miſtery, brotherhood and commonalty, corporate or not corporate, or any other to his or their uſe in truſt or otherwiſe hath in fee ſimple, fee taile for terme of life, tearme of yeeres, by execution, wardſhip or by Copy of Court Role, of and in any honours, Caſtles, Mannors, Lands, Tenements, Rents, ſervices, tithes, oblations, obventions, annunities, Offices of profit, Fees, corrodies or other yearely profits or here<g ref="char:EOLhyphen"/>ditaments, as well within Antient demeſne and other places priviledged as elſewhere, ſhall pay to and to<g ref="char:EOLhyphen"/>wards the ſaid weekly ſum, his and their proportio<g ref="char:EOLhyphen"/>nable part and portion of ſum or ſums of money as ſhall be impoſed, charged, and ſet upon every the par<g ref="char:EOLhyphen"/>ticulars within the aforeſaid County, according as the ſame ſhall be divided diſtributed, cared, or ſet upon each ſeverall Towne, hamlet, Pariſh, or place where ſuch perſon or perſons is or ſhall be chargeably by this Ordinance and the true intent and meaning thereof, except and alwayes fore-prized from the charge and Aſſeſſement of the ſum aforeſaid, all Goods, Chattels, and Ornaments, belonging to any Churches or Chap<g ref="char:EOLhyphen"/>pels which have been ordained and uſed in any Chur<g ref="char:EOLhyphen"/>ches and Chappells for the ſervice of Almighty God, &amp; except yearely wages due to ſervants for their yearely ſervice, and the ſaid ſumme ſo charged ſhall by autho<g ref="char:EOLhyphen"/>rity of this Ordinance be taxed, ſeſſed, and rated in every hundred, Citie, Towne Hamlet, Pariſh, and e<g ref="char:EOLhyphen"/>very other place within the ſaid County before the <hi>20.</hi> of <hi>April</hi> in the yeare of our Lord one thouſand ſix hundred forty and three, and the firſt payment of the ſaid weekely ſumme ſo aſſeſſed by this Ordinance, ſhall be made at or before the firſt day of May <hi>1643.</hi> And the ſaid weekely payment to continue weekely for three moneths next enſuing from the firſt day of May, unleſſe the Armies pretended to be the Kings, ſhall bee
+<pb facs="tcp:111109:4"/>disbanded in the meane time, and for the better expe<g ref="char:EOLhyphen"/>diting of the ſaid ſervice, in leavying, aſſeſſing, and collecting the ſaid weekely ſum of foure humdred and fifty Pounds; bee it further Ordained by the ſaid Lords and Commons, That the Lord Viſcount <hi>Cramborne, Robert Cicill Eſqu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re, Sir John Gerrard, Sir John Read Knights and Baronets, Sir Thomas Da<g ref="char:EOLhyphen"/>cres, Sir William Litton, Sir John Wittew<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ong, K<hi rend="sup">ts</hi>. Richard Jennings, William Le<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>man, William Pievſt<g ref="char:EOLhyphen"/>ley, Cravely Norton, Eſquires, Edward Atkins,</hi> Ser<g ref="char:EOLhyphen"/>geant at Law, <hi>John King</hi> Doctor in Phyſick, <hi>Henry Meau<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is ſenior, Ralph Fteeman, Iohn Heydon, Alex<g ref="char:EOLhyphen"/>ander Wilde, Richard Porter, Adam Waſhington, Gabriel Barber, Iohn Robotham, Toby Combes, Iohn Pemberton, William Beaman, of<g ref="char:punc">▪</g> Redborne, Litton Fairclough, Iohn Scrogs, Thomas Sadler,</hi> of St. Al<g ref="char:EOLhyphen"/>banes, for the time being, the Maior of Hertford for the time being, <hi>Iohn Marſh, Iſaac Puller, Thomas Meade, Ralph Pemberton, Iohn Thewer, William Catter of Offeley,</hi> Gentleman, or any two or more of them ſhall bee appointed and Ordained Com<g ref="char:EOLhyphen"/>mittees for the Leavying, Aſſeſſing, and Collecting of the aforeſaid ſum of <hi>450 li.</hi> to the uſes and purpo<g ref="char:EOLhyphen"/>ſes already expreſt in this Ordinance. And for the bet<g ref="char:EOLhyphen"/>ter rayſing of the foreſaid weekely ſum, the ſaid Com<g ref="char:EOLhyphen"/>mittees ſhall agree to divide and ſever themſelves in<g ref="char:EOLhyphen"/>to ſuch hundreds, places, and diviſions, within the ſaid County as to them ſhall ſeeme meet and expedi<g ref="char:EOLhyphen"/>ent<g ref="char:punc">▪</g> and afterwards the ſaid Committees orany two of them reſpectively ſhall direct their Warrants to ſuch number of perſons as they ſhall thinke fit within their ſevecall and reſpective Diviſions, to appeare before them or before any two of them, and upon their appearance the ſaid reſpective Com<g ref="char:EOLhyphen"/>mittees
+<pb facs="tcp:111109:4"/>or any two of them ſhall nominate and ap<g ref="char:EOLhyphen"/>point ſuch perſons as they ſhall thinke fit, within their reſpective diviſions; which ſaid perſons ſo nomina<g ref="char:EOLhyphen"/>ted, or any two of them, ſhall have power to aſſeſſe any perſon or perſons, fraternity, Guild, Corporation, mi<g ref="char:EOLhyphen"/>ſtery, brotherhood, Commonalty Corporate, or not Corporate, chargeable by this Ordinance; to the weekely rate and proportion in this Ordinance menti<g ref="char:EOLhyphen"/>oned: and the ſaid Committees or any two of them ſhall have full power and authority within the ſaid County in their ſeverall diviſions, to nominate col<g ref="char:EOLhyphen"/>lectors for the money ſo aſſeſſed and rated as afore<g ref="char:EOLhyphen"/>ſaid, accorduig to this Ordinance, which ſaid col<g ref="char:EOLhyphen"/>lectors ſhall collect the ſaid Money ſo aſſeſſed<g ref="char:punc">▪</g> and pay the ſame to ſuch Treaſurers, as ſhall be appoin<g ref="char:EOLhyphen"/>ted by the ſaid Committee, or any five of them; and if any perſon or perſons, fraternity, Guild, Corporation, Miſtery, Brotherhood, Commonalty, corporate or not corporate chargeable by this Ordinance, ſhall refuſe to pay the ſum or ſummes upon him or them aſſeſſed by <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Ordinance, or ſhall not pay the ſame up<g ref="char:EOLhyphen"/>pon <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the place of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, or where, ſuch aſſeſſement ſhall be made, it ſhall be lawfull to and for the reſpective Collectors, or any of them, to leavy all or any ſuch ſumme of ſummes ſo aſſeſſed by way of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and ſale of the goods of the Perſon or Per<g ref="char:EOLhyphen"/>ſons ſo aſſeſſed, where ever the ſame ſhall be found, and to breake open any houſe, cheſt, trunke, bote, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any other thing where any ſuch goods are, and if any perſon ſo <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; or other ſhall make reſiſtance, it ſhall be lawful to and for the ſaid reſpective Collectors or any of them, as they ſee tauſe, to ca<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to their aſſiſt<g ref="char:EOLhyphen"/>ance, by the power of the ſuperiour Officers of the Forces of the ſaid County, any of the Trained Bands or Companies of <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>eetes or other Forces of, or
+<pb facs="tcp:111109:5"/>within the ſaid County, place, or places where ſuch reſiſtance ſhall be made, or any other Perſon or Per<g ref="char:EOLhyphen"/>ſons whatſoever, dwelling in or neere the place, and the ſeverall Officers, Commanders, and Soutdiers of the ſame, or other the Perſons ſo to be called, are hereby required to be aiding and aſſiſting to the ſaid reſpective Collectors in the premiſes, as they will an<g ref="char:EOLhyphen"/>ſwer the contrary therof, and be it further Ordained that every perſon to be rated and taxed as aforeſaid, if he have an eſtate either in Lands, Tenements, Here<g ref="char:EOLhyphen"/>ditaments, rents, annunities, Fees, offices, goods or chattelis, in ſeverall places in the ſaid County, then to be rated in the ſaid ſeverall places, according to ſuch his ſaid eſtate in the ſaid places, and the ſumme on him ſet to be there levyed accordingly; And be it alſo Or<g ref="char:EOLhyphen"/>dained that al Lands, Tenements, and Hereditaments of all and every perſon and perſons whatſoever, of what degree or quality ſoever, or in whoſe poſſeſſion ſoever the ſame are, ſhall be rated, charged, and char<g ref="char:EOLhyphen"/>geable for and to wards the rayſing and payment of the ſaid weekely ſumme of money ſet and charged by this Ordinance, Yet nevertheleſſe with this Limi<g ref="char:EOLhyphen"/>tation and proviſion that if the Land be ſet or let to or neere the yearely valew thereof in the poſſeſſion of any Tenant for life, lives, or yeares, or at will, ſuch perſon or perſons to whom the rent thereof belongeth to be ſolely chargeable therewith, but if the ſame be let at any eaſie or ſmall rent or undervalue then the ſumme taxed to be apportioned betweene the party or parties to whom the rent belongeth, and the Tenant or occu<g ref="char:EOLhyphen"/>pier of the lands, Tenements &amp; herediſtaments as the taxers ſhall thinke meete, and if they or any of them ſhall doe any Injury the ſame to be rectified by the ſaid Committees or any two of them within their ſeve<g ref="char:EOLhyphen"/>rall limits and diviſions according to their diſcretion</p>
+            <pb n="7" facs="tcp:111109:5"/>
+            <p>And if any ſuch Tenant or Occupier of Lands, Tene<g ref="char:EOLhyphen"/>ments or hereditaments, ſhall, or may be charged with any ſum of money, contrary to the true mient and meaning of this Ordinance, That it ſhall and may be lawfull to and for ſuch Tenant or Occupier to ſtop and detaine the ſame from and out of his Rent due for the ſame Land, or to take his lawfull remedy (againſt ſuch) perſon or perſons to whom the ſaid Rent is or ſhall be due or belonging, who ought by the true meaning of this Ordinance to be charg<g ref="char:EOLhyphen"/>ed with) by action of debt, wherein no Wager of Law, protection or eſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome ſhall be allowed, and for all manner of debts whatſoever, or ſum or ſums of money due or owing to any perſon or perſons, by any perſon or perſons within the ſaid County, the perſon or perſons to w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om ſuch debts ſhall be due, to be charged for the ſame, during his abode, and reſidence in the ſaid County.</p>
+            <p>And be it Ordained that no perſon, being or calling him<g ref="char:EOLhyphen"/>ſelfe houſehold ſervant, or waiting ſervant to the Kings Majeſty, or other Lord or Lady, Maſter or Miſtris be ex<g ref="char:EOLhyphen"/>cuſed from the Taxed of the ſaid payment when he ſhall be ſet and taxed in the hundreds, Hamlets, Pari<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es, and other places of the ſaid County. And if any perſon that ought to be ſet and Taxed to the ſaid payment, by his crime or craft, or any words or ſayings, or otherw<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe, happen to eſcape from the ſaid payments to ben<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſet, and Taxed according to the true meaning of this Ordinance, and that procced by preſentment, examination, information, or other wayes be<g ref="char:EOLhyphen"/>fore the ſaid Committées or any two of them, then every ſuch perſon ſhall be charged upon the knowledge and proofe thereof; At the treble value of ſo much as he ſhould might, or ought to have beene ſet or taxed at, by vertue of this Or<g ref="char:EOLhyphen"/>dinance, and the ſame to be levied, gathered, and paid out of his Goods and Chattells, Lands and Tenements, to<g ref="char:EOLhyphen"/>wards
+<pb n="8" facs="tcp:111109:6"/>the ſaid payment, in ſuch manner as is herein limi<g ref="char:EOLhyphen"/>ted for others, which refuſe to pay: and if no diſtreſſe bée found of the goods, or other things of ſuch perſon or perſons, bodies corporate, or other chargable by this Ordinance, as ſhall not pay the wéekly rate as aforeſaid; then the ſaid Col<g ref="char:EOLhyphen"/>lectors ſhall have power to enquire of any ſum or ſums of money due, or to be due to the perſons ſo aſſeſſed as afore<g ref="char:EOLhyphen"/>ſaid, from any perſon or perſons, for any Rents, Tythes, Goods or Debts, or other thing or cauſe whatſoever, and to compound for any of the ſaid Rents, Tythes, Goods, Debts, due to the perſo<g ref="char:cmbAbbrStroke">̄</g> ſo aſſeſſed reſpectively as aforeſaid, with any perſon or perſons, by whom the ſaid Rents, Tithes, Goods, Debts, or other things due unto the ſaid perſon reſpectively as aforeſaid; As alſo to give full diſcharge for the money, by them ſo received upon compoſition or otherwiſe, which diſcharge ſhall be good and effectuall to all intents and pur<g ref="char:EOLhyphen"/>poſes. And be it further Ordained that if any perſon, or per<g ref="char:EOLhyphen"/>ſons ſhal finde <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, themſelves aggrieved, that he or they, is, or are over-rated; ſuch perſon or perſons at any time be<g ref="char:EOLhyphen"/>fore diſtreſſe taken, of his, or their Goods, except it be ſuch per<g ref="char:EOLhyphen"/>ſons as have not at all contributed to the propoſitions of both Houſes of Parliament, and theſe ſhall pay their tax or rate, ſo that it doth not exceed the twentieth part of their E<g ref="char:EOLhyphen"/>ſtates, yet never the leſſe no man ſhall be taxed, or leavied, at, or above the ſum of ten pounds by the week) may complain to the Committée, who have executed this Ordinance, which ſaid Committée or any two of them ſhall have power upon examination to relieve ſuch perſon or perſons as they ſhall ſee cauſe; And for the better encouragement of the Collectors in this ſaid Service, It is Ordained that three pence in the pound ſhall be allowed for every ſum of money which ſhall be collected, and paid to ſuch Treaſurers and Receivers as ſhall be nominated by the Committee or any
+<pb n="9" facs="tcp:111109:6"/>five of them; Two pence whereof ſhall be allowed to the Collectors, and the reſidue to ſuch other perſons as ſhallbe imployed in the ſaid ſervice, according to the diſcretion of the Committee, or any two of them. And to the end that all the moneys may be duely collected. Be it ordayned that the ſeverall aſſeſſors within the ſaid County ſhall within one weeke next after their aſſeſſements made, returne their ſaid ſeverall Aſſeſſements unto the Committees aforeſaid, who, or any two of them are hereby required within ten dayes after the returne of ſuch ſeverall Aſſeſſements, to de<g ref="char:EOLhyphen"/>liver a Copy thereof, ſubſcribed with their or any two of their hands, to the ſeverall Collectors within their ſaid di<g ref="char:EOLhyphen"/>viſions or limits, and alſo within the like ten dayes to ſend an other Copy thereof to the Treaſurers appointed, to the end, the ſaid Treaſurers may thereby know what they are to receive of every Pariſh, or place within the ſaid County. And if any aſſeſſors or collectors ſhal refuſe the ſaid Service, or prove negligent or faulty therein, the ſaid Com<g ref="char:EOLhyphen"/>mittee, or any two of them, ſhall have power to commit ſuch Aſſeſſors, or Collectors to priſon, or to ſet ſuch a fine upon him or them as they ſhall thinke fit, not exceeding the ſum of twenty pounds upon the Aſſeſſors, or the ſum of five pounds upon the Collectors, The ſame to be levied by diſtreſſe, and ſale of ſuch Offenders Goods, to the uſes herein mentioned in ſuch ſort as is herein be<g ref="char:EOLhyphen"/>fore appointed for ſuch as refuſe to pay the rates aſſeſ<g ref="char:EOLhyphen"/>ſed upon him and them. And ſhall alſo certifie the ſaid Of<g ref="char:EOLhyphen"/>fence to the Lords and Commons in Parliament, and ſhall have power to nominate other Aſſeſſors and Collect<g ref="char:EOLhyphen"/>ors: And if any perſon or perſons ſo Aſſeſſed, and Rated, as aforeſaid ſhall conceale, or convey away his ur their Goods, ſo that no diſtreſſe can be taken, or that the ſaid ſum or ſums, ſo Aſſeſſed upon him or them, cannot be had, or le<g ref="char:EOLhyphen"/>vied by any of the wayes, or mean<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in the Ordinance men<g ref="char:EOLhyphen"/>tioned,
+<pb n="10" facs="tcp:111109:7"/>Then the ſaid Collectors ſhall reſpectively certifie the ſame, in caſe bee he under the degrée of a Peere of the Realme, to the Committee of the Commons Houſe of Parliament for examinations, which ſaid Committée ſhall hereby have power to ſend for ſuch perſon and perſons as Delinquents, and to commit him or them to ſuch place, or places within this Kingdome, and for ſo long time, as the Committée for examinations ſhal think fit.</p>
+            <p>And it is Ordained that all and every the Aſſeſſors, and Collectors, aforeſaid and all that ſhall aſſiſt them in the premiſles, ſhall be protected by both Houſes of Parlia<g ref="char:EOLhyphen"/>ment from all damage that may come to them, or any of them by this Service; and ſhall further receive ſuch Al<g ref="char:EOLhyphen"/>lowances for their charges, and obedience in execution of this Ordinance, as ſhall be thought fit upon examination by the Committée of the ſaid County, or any three of them.</p>
+            <p>And further, it is Ordered that the Treaſurers appoint<g ref="char:EOLhyphen"/>ted by the ſaid Committee for the County in the manner aforeſaid, ſhall keepe a Regiſter Booke of the ſeverall ſums re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erved and paid out by them, that ſo they may give a good account (of the receipts and diſburſements of all the ſums of money collected in the ſaid County, by vertue of this Ordinance) unto the Committée of the County, when thereunto they ſhall be required by the Parliament.</p>
+            <p>And laſtly it is Ordained, that the Treaſurers of the County, as before appointed ſhall iſſue out no ſum or ſums of Money, which by vertue of this Ordinance is brought into their hands, to any perſon or perſons, or for any the foreſaid uſe or uſes, but as they ſhall receive Or<g ref="char:EOLhyphen"/>der under the Committées hands appointed by this Ordi<g ref="char:EOLhyphen"/>dance for the County of Hereford or any thrée of them.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
